@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# global var(allowed to changed base on ur pref.)
+usrname="urbao"
+
 # print fnction with color and newline/sameline options
 # nl: NewLine/ nnl: No NewLine
 function print(){
@@ -24,6 +27,20 @@ function print(){
 	return 
 }
 
+# backup log.txt with git, and push to GitHub
+# Used after any modification with log.txt file
+function gitpush(){
+	print "cyan" "--- git add ---" "nl"
+	git add log.txt
+	print "cyan" "-- git commit --" "nl"
+	git commit -m "update log file"
+	print "cyan" "--- git push ---" "nl"
+	git push
+	print "cyan" "----------------\n" "nl"
+	return 
+}
+
+gitpush
 print "yellow" "test line" "nl"
-print "cyan" "urbao:" "nnl"
+print "cyan" "${usrname}:" "nnl"
 sleep 5
