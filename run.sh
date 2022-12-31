@@ -109,12 +109,14 @@ function append(){
 	   	print "red" "Do you want to append this?[Y/n]" "nnl"
 		read -r ans
 		if [ "${ans,,}" == "y" ]
-		then 
+		then
+			chmod 777 "$logfile"
 			format_appd "$dat" "$type" "$amount" "$detail"
 			# append line to log file
 			print "yellow" "------- Done -------" "nl"
 			# backup with gitpush func
 			gitpush
+			chmod 444 "$logfile"
 			return
 		elif [ "${ans,,}" == "n" ]
 		then
