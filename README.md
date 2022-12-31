@@ -1,9 +1,9 @@
 # money_tracker
 ## Fullname
---Basic Money Usage Tracker with C++<br />
+--Money Tracker in Shell Script<br />
 ## Compile Environment
 --Ubuntu 22.04 64(bit)<br />
---g++ 11.3.0<br />
+--GNU bash, version 5.1.16(1)-release<br />
 --Micro text editor<br />
 ## Way to Use
 --Type `help' for all valid commands<br/>
