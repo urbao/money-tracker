@@ -3,6 +3,7 @@
 # global var(allowed to changed base on ur pref.)
 #-------------------------------------------#
 usrname="urbao"
+dirloca="$HOME/Desktop/money tracker"
 logfile="$HOME/Desktop/money tracker/log.txt"
 helpfile="$HOME/Desktop/money tracker/help.txt"
 #-------------------------------------------#
@@ -38,6 +39,7 @@ function print(){
 # backup log.txt with git, and push to GitHub
 # Used after any modification with log.txt file
 function gitpush(){
+	cd "$dirloca" || return
 	print "cyan" "---- git add ----" "nl"
 	git add log.txt
 	print "cyan" "--- git commit ---" "nl"
@@ -49,9 +51,15 @@ function gitpush(){
 }
 
 # format line with space for prettier storage in log.txt
-# parameter order: Date|Type|Amount|Detail|
-function format(){
-	
+# parameter order(represent LENGTH of STRING): Date|Type|Amount|Detail|
+function format_appd(){
+	space1=$(printf '%*s' $((10-"${#2}")))
+	space2=$(printf '%*s' $((7-"${#3}")))
+	space3=$(printf '%*s' $((50-"${#4}")))
+	update_time=$(date "+%a %b %d %T %G")
+	result="$1$space1$2$space2$3  $4$space3$update_time"
+	echo "$result" >> "$logfile"
+	return
 }
 #-------------------------------------------#
 
@@ -98,13 +106,12 @@ function append(){
 	# make sure before appending
 	while true
 	do
-	   	print "white" "Do you want to append this?[Y/n]" "nnl"
+	   	print "red" "Do you want to append this?[Y/n]" "nnl"
 		read -r ans
 		if [ "${ans,,}" == "y" ]
 		then 
-			appd=format "$dat" "$type" "$amount" "$detail"
+			format_appd "$dat" "$type" "$amount" "$detail"
 			# append line to log file
-			echo "$appd" >> "$logfile"
 			print "yellow" "------- Done -------" "nl"
 			# backup with gitpush func
 			gitpush
@@ -120,8 +127,6 @@ function append(){
 }
 #-------------------------------------------#
 
-
-date +%a%b%d%T%G
 
 # main part fuction, keep working until `exit` command typed
 while true
