@@ -147,12 +147,19 @@ function total(){
 		done
 	done < "$logfile"
 	total_count=$(("$income_count"+"expense_count"))
+	# find percentage
 	print "yellow" "----- Total Summary -----" "nl"
 	print "purple" "Income:" "nnl"
 	print "green" "$income" "nnl"
+	
 	print "purple" "Expense:" "nnl"
 	print "red" "$expense" "nnl"
+	
 	print "purple" "Total:" "nnl"
+	if [ "$income" -ge "$expense" ]; then print "green" $(("$income"-"$expense")) "nl"
+	else print "red" $(("expense"-"income")) "nl"
+	fi
+	print "yellow" "-------------------------\n" "nl"
 	return
 }
 
