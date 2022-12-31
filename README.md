@@ -10,3 +10,6 @@
 --Used to track your money flow(including Expense & Income)<br/>
 --All data is stored in 'log.txt'<br/>
 --'log.txt' will automatically upload to GitHub as backup<br/>
+## Additional
+### Plz make sure run 'chmod +x ./run.sh money_tracker.desktop' in teminal
+### Place money_tracker.desktop in ~/.local/share/applications/ 
