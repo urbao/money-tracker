@@ -127,6 +127,35 @@ function append(){
 		fi
 	done
 }
+
+# total func that print out all summary info
+function total(){
+	income=0, expense=0, income_count=0, expense_count=0
+	while IFS=' '  read -ra line 
+	do
+		for idx in "${!line[@]}";
+		do
+			if [ "${line[idx]}" == "income" ]
+			then 
+				income=$(("$income"+"${line[idx+1]}"))
+				income_count=$(("$income_count"+1))
+			elif [ "${line[idx]}" == "expense" ]
+			then 
+				expense=$(("$expense"+"${line[idx+1]}"))
+				expense_count=$(("$expense_count"+1))
+			fi
+		done
+	done < "$logfile"
+	total_count=$(("$income_count"+"expense_count"))
+	print "yellow" "----- Total Summary -----" "nl"
+	print "purple" "Income:" "nnl"
+	print "green" "$income" "nnl"
+	print "purple" "Expense:" "nnl"
+	print "red" "$expense" "nnl"
+	print "purple" "Total:" "nnl"
+	return
+}
+
 #-------------------------------------------#
 
 
@@ -140,5 +169,6 @@ do
 	elif [ "$input" == "show" ]; then show 
 	elif [ "$input" == "help" ]; then help
 	elif [ "$input" == "append" ]; then append
+	elif [ "$input" == "total" ]; then total
 	fi
 done
