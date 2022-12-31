@@ -30,14 +30,13 @@ function print(){
 # backup log.txt with git, and push to GitHub
 # Used after any modification with log.txt file
 function gitpush(){
-	print "cyan" "--- git add ---" "nl"
+	print "cyan" "---- git add ----" "nl"
 	git add log.txt
-	git status
-	print "cyan" "-- git commit --" "nl"
+	print "cyan" "--- git commit ---" "nl"
 	git commit -m "update log file"
-	print "cyan" "--- git push ---" "nl"
+	print "cyan" "---- git push ----" "nl"
 	git push
-	print "cyan" "----------------\n" "nl"
+	print "cyan" "------------------\n" "nl"
 	return 
 }
 
