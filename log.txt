@@ -62,4 +62,3 @@
 2022/12/09   expense    310  Hot pot for Mom's birthday                        Sat Dec 10 00:00:39 2022
 2022/12/12    income   6500  Scholarship                                       Thu Dec 15 20:16:06 2022
 2022/12/22   expense    227  Dinner with college mates                         Thu Dec 22 19:51:02 2022
-2022/12/31    income   damn  damn                                              Sat Dec 31 17:07:41 2022
