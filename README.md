@@ -8,3 +8,5 @@
 ## Way to Use
 --Type `help' for all valid commands<br/>
 --Used to track your money flow(including Expense & Income)<br/>
+--All data is stored in 'log.txt'<br/>
+--'log.txt' will automatically upload to GitHub as backup<br/>
