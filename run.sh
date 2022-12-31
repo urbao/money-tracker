@@ -7,6 +7,7 @@ logfile="$HOME/Desktop/money tracker/log.txt"
 helpfile="$HOME/Desktop/money tracker/help.txt"
 #-------------------------------------------#
 
+#--------------Side Functions---------------#
 # print fnction with color and newline/sameline options
 # nl: NewLine/ nnl: No NewLine
 function print(){
@@ -43,15 +44,17 @@ function gitpush(){
 	print "cyan" "------------------\n" "nl"
 	return 
 }
+#-------------------------------------------#
 
+#--------------Main Command-----------------#
 # show function that show all contents of log.txt
 function show(){
 	while IFS= read -r line
 	do
 	  # colored different lines by their differnet types, using substr to check
-	  if [[ $line == *"income"* ]]; then print "green" "${line}" "nl"
-	  elif [[ $line == *"expense"* ]]; then print "red" "${line}" "nl"
-	  else print "yellow" "${line}" "nl"
+	  if [[ $line == *"income"* ]]; then print "green" "$line" "nl"
+	  elif [[ $line == *"expense"* ]]; then print "red" "$line" "nl"
+	  else print "yellow" "$line" "nl"
 	  fi
 	done < "$logfile"
 	printf "\n"
@@ -78,7 +81,17 @@ function append(){
 	read -r amount
 	print "purple" "Details:" "nnl"
 	read -r detail
+	# make sure before appending
+	print "red" "Do you want to append this?[Y/n]" "nnl"
+	read -r ans
+	
+	print "yellow" "------- Done -------" "nl"
+	# backup with gitpush func
+	gitpush
 }
+#-------------------------------------------#
+
+
 date +%a%b%d%T%G
 
 # main part fuction, keep working until `exit` command typed
@@ -86,9 +99,10 @@ while true
 do
 	print "purple" "${usrname}:" "nnl"
 	read -r input
-	if [ "${input}" == "exit" ]; then exit
-	elif [ "${input}" == "clear" ]; then clear
-	elif [ "${input}" == "show" ]; then show 
-	elif [ "${input}" == "help" ]; then help
+	if [ "$input" == "exit" ]; then exit
+	elif [ "$input" == "clear" ]; then clear
+	elif [ "$input" == "show" ]; then show 
+	elif [ "$input" == "help" ]; then help
+	elif [ "$input" == "append" ]; then append
 	fi
 done
