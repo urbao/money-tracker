@@ -165,6 +165,17 @@ function total(){
 	return
 }
 
+# function of find, using built-in 'grep'
+function finder(){
+	result=$(grep --color=always -i "$1" "$logfile")
+	if [ "$result" == "" ];
+	then print "red" "No matched case found" "nl"
+	else echo "$result"
+	fi
+	echo
+	return
+}
+
 #-------------------------------------------#
 
 
@@ -172,12 +183,14 @@ function total(){
 while true
 do
 	print "purple" "${usrname}:" "nnl"
-	read -r input
-	if [ "$input" == "exit" ]; then exit
-	elif [ "$input" == "clear" ]; then clear
-	elif [ "$input" == "show" ]; then show 
-	elif [ "$input" == "help" ]; then help
-	elif [ "$input" == "append" ]; then append
-	elif [ "$input" == "total" ]; then total
+	IFS=" " read -r input option
+	if [[ "$input" == "exit" ]] && [[ "$option" == "" ]]; then exit
+	elif [[ "$input" == "clear" ]] && [[ "$option" == "" ]]; then clear
+	elif [[ "$input" == "show" ]] && [[ "$option" == "" ]]; then show 
+	elif [[ "$input" == "help" ]] && [[ "$option" == "" ]]; then help
+	elif [[ "$input" == "append" ]] && [[ "$option" == "" ]]; then append
+	elif [[ "$input" == "total" ]] && [[ "$option" == "" ]]; then total
+	elif [[ "$input" == "find" ]] && [[ "$option" != "" ]]; then finder "$option"
+	else print "red" "Error: Invalid command\n" "nl" 
 	fi
 done
