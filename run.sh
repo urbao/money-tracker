@@ -25,9 +25,12 @@ function print(){
 	c_code+="$2"
 	# new line or not
 	# 'echo -e' enables color hex code identification 
-	if [ "$3" == "nl" ]; then echo -e  "\e[1;${c_code}\e[0m"
+	if [ "$3" == "nl" ]
+	then 
+		echo -e  "\e[1;${c_code}\e[0m"
 	# '-n' parameter means no newline
-	else echo -n -e "\e[1;${c_code} \e[0m"
+	else 
+		echo -n -e "\e[1;${c_code} \e[0m"
 	fi
 	return 
 }
@@ -44,6 +47,12 @@ function gitpush(){
 	print "cyan" "------------------\n" "nl"
 	return 
 }
+
+# format line with space for prettier storage in log.txt
+# parameter order: Date|Type|Amount|Detail|
+function format(){
+	
+}
 #-------------------------------------------#
 
 #--------------Main Command-----------------#
@@ -52,9 +61,14 @@ function show(){
 	while IFS= read -r line
 	do
 	  # colored different lines by their differnet types, using substr to check
-	  if [[ $line == *"income"* ]]; then print "green" "$line" "nl"
-	  elif [[ $line == *"expense"* ]]; then print "red" "$line" "nl"
-	  else print "yellow" "$line" "nl"
+	  if [[ $line == *"income"* ]]
+	  then
+	  	print "green" "$line" "nl"
+	  elif [[ $line == *"expense"* ]]
+	  then
+	  	print "red" "$line" "nl"
+	  else 
+	  	print "yellow" "$line" "nl"
 	  fi
 	done < "$logfile"
 	printf "\n"
@@ -79,15 +93,30 @@ function append(){
 	read -r type
 	print "purple" "Amount:" "nnl"
 	read -r amount
-	print "purple" "Details:" "nnl"
+	print "purple" "Detail:" "nnl"
 	read -r detail
 	# make sure before appending
-	print "red" "Do you want to append this?[Y/n]" "nnl"
-	read -r ans
-	
-	print "yellow" "------- Done -------" "nl"
+	while true
+	do
+	   	print "red" "Do you want to append this?[Y/n]" "nnl"
+		read -r ans
+		if [ "${ans,,}" == "y" ]
+		then 
+			appd=format
+			print "yellow" "------- Done -------" "nl"
+			done
+		elif [ "${ans,,}" == "n" ]
+		then
+			print "yellow" "------ Cancel ------" "nl"
+			return
+		else
+			print "red" "Error: invalid input\n" "nl"	
+		fi
+	# append line to log file
+	echo "$appd" >> "$logfile"
 	# backup with gitpush func
 	gitpush
+	return
 }
 #-------------------------------------------#
 
