@@ -53,9 +53,9 @@ function gitpush(){
 # format line with space for prettier storage in log.txt
 # parameter order(represent LENGTH of STRING): Date|Type|Amount|Detail|
 function format_appd(){
-	space1=$(printf '%*s' $((10-"${#2}")))
-	space2=$(printf '%*s' $((7-"${#3}")))
-	space3=$(printf '%*s' $((50-"${#4}")))
+	space1=$(printf '%*s' $((10-"${#2}")) ' ')
+	space2=$(printf '%*s' $((7-"${#3}")) ' ')
+	space3=$(printf '%*s' $((50-"${#4}")) ' ')
 	update_time=$(date "+%a %b %d %T %G")
 	result="$1$space1$2$space2$3  $4$space3$update_time"
 	echo "$result" >> "$logfile"
