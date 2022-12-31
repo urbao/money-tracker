@@ -57,7 +57,7 @@
 2022/09/11    income   4000  Tutor fee of Aug.                                 Sun Sep 11 15:48:32 2022
 2022/09/15   expense     90  Dinner with college classmates                    Thu Sep 15 20:13:33 2022
 2022/09/19   expense    100  Lunch with college classate                       Tue Sep 20 07:50:42 2022
-2022/10/02    income   3000  Tutor fee of Sep.                                 Sun Oct  2 13:23:54 2022
+2022/10/02    income   3000  Tutor fee of Sep.                                 Sun Oct 02 13:23:54 2022
 2022/11/10    income   5000  Tutor fee of Oct.                                 Thu Nov 10 20:11:00 2022
 2022/12/09   expense    310  Hot pot for Mom's birthday                        Sat Dec 10 00:00:39 2022
 2022/12/12    income   6500  Scholarship                                       Thu Dec 15 20:16:06 2022
