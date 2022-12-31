@@ -98,13 +98,17 @@ function append(){
 	# make sure before appending
 	while true
 	do
-	   	print "red" "Do you want to append this?[Y/n]" "nnl"
+	   	print "white" "Do you want to append this?[Y/n]" "nnl"
 		read -r ans
 		if [ "${ans,,}" == "y" ]
 		then 
-			appd=format
+			appd=format "$dat" "$type" "$amount" "$detail"
+			# append line to log file
+			echo "$appd" >> "$logfile"
 			print "yellow" "------- Done -------" "nl"
-			done
+			# backup with gitpush func
+			gitpush
+			return
 		elif [ "${ans,,}" == "n" ]
 		then
 			print "yellow" "------ Cancel ------" "nl"
@@ -112,11 +116,7 @@ function append(){
 		else
 			print "red" "Error: invalid input\n" "nl"	
 		fi
-	# append line to log file
-	echo "$appd" >> "$logfile"
-	# backup with gitpush func
-	gitpush
-	return
+	done
 }
 #-------------------------------------------#
 

@@ -1,4 +1,4 @@
-      Date     Type  Amount  Detail                                            Edit Time
+      Date     	Type Amount  Detail                                            Edit Time
 =======================================================================================================                               
 2020/08/31    income   3000  Tutor fee                                         Mon Apr 04 20:27:12 2022
 2020/08/31   expense   1365  Swiss Army Knife                                  Mon Apr 04 20:28:13 2022
