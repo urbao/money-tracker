@@ -1,11 +1,11 @@
 
 # Money Tracker
 
-Money Tracker allows you to track your income and expense with simple interface<br/>
+Money Tracker allows you to track your income and expense with simple interface<br/><br/>
 
 
 
-![Logo]()<br/>
+![wallet](https://user-images.githubusercontent.com/87600155/210162336-c184e2d0-2323-4cc5-af73-54eeccab14f5.png)<br/>
 
 
 ## Features
@@ -26,7 +26,7 @@ Money Tracker allows you to track your income and expense with simple interface<
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
 
 ## Run Locally
