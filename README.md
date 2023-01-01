@@ -1,7 +1,7 @@
 # money_tracker
 ## Fullname
 --Money Tracker in Shell Script<br />
-## Compile Environment
+## Environment
 --Ubuntu 22.04 64(bit)<br />
 --GNU bash, version 5.1.16(1)-release<br />
 --Micro text editor<br />
