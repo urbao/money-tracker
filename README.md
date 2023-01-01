@@ -5,7 +5,7 @@ Money Tracker allows you to track your income and expense with simple interface<
 
 
 
-![wallet](https://user-images.githubusercontent.com/87600155/210162336-c184e2d0-2323-4cc5-af73-54eeccab14f5.png)<br/>
+![wallet](https://user-images.githubusercontent.com/87600155/210162390-66085841-3fb4-4a86-8006-2f66329117fd.png)<br/>
 
 
 ## Features
@@ -25,7 +25,10 @@ Money Tracker allows you to track your income and expense with simple interface<
 
 
 ## Screenshots
-
+1.help function<br/>![help](https://user-images.githubusercontent.com/87600155/210159476-083328a0-f2a2-4149-b18e-f30becad6ea6.png)<br/><br/>
+2.show function<br/>![show](https://user-images.githubusercontent.com/87600155/210159480-160c34de-3ea7-4f46-9210-65d71321ef66.png)<br/><br/>
+3.find function<br/>![find](https://user-images.githubusercontent.com/87600155/210159488-e7253cb4-c4d3-4dc0-ba61-8e6aa2f1c755.png)<br/><br/>
+4.total function<br/>![total](https://user-images.githubusercontent.com/87600155/210159485-9e0601db-8938-464c-b378-5f61c2e82df9.png)<br/><br/>
 
 
 
