@@ -25,9 +25,8 @@ chmod +x ./run.sh money_tracker.desktop
 mv money_tracker.desktop ~/.local/share/applications/ 
 ```
 ## Function Demo
-1.help function<br/>![Screenshot from 2023-01-01 10-25-58](https://user-images.githubusercontent.com/87600155/210159433-5bee6875-2346-42b3-82eb-fb58a206f894.png)
-2.show function<br/>![Screenshot from 2023-01-01 10-26-42](https://user-images.githubusercontent.com/87600155/210159441-af11be2d-20d8-49fe-bc50-ce1613fc8183.png)
-3.find function<br/>
-![Screenshot from 2023-01-01 10-25-22](https://user-images.githubusercontent.com/87600155/210159424-eea73e81-8eab-4b4f-ab4d-959f01b1ded6.png)
-4.total function<br/>
-![Screenshot from 2023-01-01 10-25-40](https://user-images.githubusercontent.com/87600155/210159449-fa1a6565-f26e-4fd5-83da-f2c5d7469633.png)
+
+1.help function<br/>![help](https://user-images.githubusercontent.com/87600155/210159476-083328a0-f2a2-4149-b18e-f30becad6ea6.png)
+2.show function<br/>![show](https://user-images.githubusercontent.com/87600155/210159480-160c34de-3ea7-4f46-9210-65d71321ef66.png)
+3.find function<br/>![find](https://user-images.githubusercontent.com/87600155/210159488-e7253cb4-c4d3-4dc0-ba61-8e6aa2f1c755.png)
+4.total function<br/>![total](https://user-images.githubusercontent.com/87600155/210159485-9e0601db-8938-464c-b378-5f61c2e82df9.png)
