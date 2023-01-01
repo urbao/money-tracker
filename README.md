@@ -11,5 +11,16 @@
 --All data is stored in 'log.txt'<br/>
 --'log.txt' will automatically upload to GitHub as backup<br/>
 ## Additional
-### Plz make sure run 'chmod +x ./run.sh money_tracker.desktop' in teminal
-### Place money_tracker.desktop in ~/.local/share/applications/ 
+### Run following commands before using:
+1.chdir to right place<br/>
+```sh
+cd "$HOME/PATH_TO_DIR"
+```
+2.chmod for execution<br/>
+```sh
+chmod +x ./run.sh money_tracker.desktop
+```  
+3.mv desktop file for apps
+```sh
+mv money_tracker.desktop ~/.local/share/applications/ 
+```
