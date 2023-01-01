@@ -39,29 +39,29 @@ Go to Desktop
   cd ~/Desktop/
 ```
 
-Clone the project
+<br/>Clone the project
 
 ```bash
   git clone git@github.com:urbao/money_tracker.git
 ```
-Go to Dir 
+<br/>Go to project directory 
 ```bash
   cd ~/Desktop/money_tracker
 ```
 
-Allow execution of files
+<br/>Allow execution of files
 
 ```bash
   chmod +x ./run.sh money_tracker.desktop
 ```
 
-Move desktop file for application
+<br/>Move desktop file for application
 
 ```bash
   mv money_tracker.desktop ~/.local/share/applications/ 
 ```
 
-Update application database
+<br/>Update application database
 
 ```bash
   update-desktop-database ~/.local/share/applications/
