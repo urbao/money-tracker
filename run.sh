@@ -184,7 +184,8 @@ while true
 do
 	print "purple" "${usrname}:" "nnl"
 	IFS=" " read -r input option
-	if [[ "$input" == "exit" ]] && [[ "$option" == "" ]]; then exit
+	if [[ "$input" == "" ]] && [[ "$option" == "" ]];then continue
+	elif [[ "$input" == "exit" ]] && [[ "$option" == "" ]]; then exit
 	elif [[ "$input" == "clear" ]] && [[ "$option" == "" ]]; then clear
 	elif [[ "$input" == "show" ]] && [[ "$option" == "" ]]; then show 
 	elif [[ "$input" == "help" ]] && [[ "$option" == "" ]]; then help
