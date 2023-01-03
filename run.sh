@@ -43,7 +43,7 @@ function gitpush(){
 	print "cyan" "---- git add ----" "nl"
 	git add log.txt
 	print "cyan" "--- git commit ---" "nl"
-	git commit -m "update log file"
+	git commit -m "update log file ($(date))"
 	print "cyan" "---- git push ----" "nl"
 	git push
 	print "cyan" "------------------\n" "nl"
