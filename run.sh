@@ -33,7 +33,7 @@ function print(){
 	else 
 		echo -n -e "\e[1;${c_code} \e[0m"
 	fi
-	return 
+	return 0
 }
 
 # backup log.txt with git, and push to GitHub
@@ -47,7 +47,7 @@ function gitpush(){
 	print "cyan" "---- git push ----" "nl"
 	git push
 	print "cyan" "------------------\n" "nl"
-	return 
+	return 0
 }
 
 # format line with space for prettier storage in log.txt
@@ -59,7 +59,7 @@ function format_appd(){
 	update_time=$(date "+%a %b %d %T %G")
 	result="$1$space1$2$space2$3  $4$space3$update_time"
 	echo "$result" >> "$logfile"
-	return
+	return 0
 }
 #-------------------------------------------#
 
@@ -80,7 +80,7 @@ function show(){
 	  fi
 	done < "$logfile"
 	printf "\n"
-	return
+	return 0
 }
 
 # help func that shows all valid options(help function)
@@ -89,7 +89,7 @@ function help(){
 		do echo "$line"
 	done < "$helpfile"
 	echo
-	return
+	return 0
 }
 
 # append function that append latest info to log.txt
@@ -117,11 +117,11 @@ function append(){
 			# backup with gitpush func
 			gitpush
 			chmod 444 "$logfile"
-			return
+			return 0
 		elif [ "${ans,,}" == "n" ]
 		then
 			print "yellow" "------ Cancel ------" "nl"
-			return
+			return 0
 		else
 			print "red" "Error: invalid input\n" "nl"	
 		fi
@@ -162,7 +162,7 @@ function total(){
 	else print "red" $(("expense"-"income")) "nl"
 	fi
 	print "yellow" "-------------------------\n" "nl"
-	return
+	return 0
 }
 
 # function of find, using built-in 'grep'
@@ -173,7 +173,7 @@ function finder(){
 	else echo "$result"
 	fi
 	echo
-	return
+	return 0
 }
 
 #-------------------------------------------#
