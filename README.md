@@ -10,18 +10,18 @@ Money Tracker allows you to track your income and expense with simple interface<
 
 ## Features
 
-- Used to track daily money flow
-- Type 'help' for all available commands
-- Written in Bash Shell(GNU bash version 5.1.16(1)-release)
-- Only test in Ubuntu 22.04 LTS, and it works 
+- Used to track `daily money flow`
+- Type `help` for all available commands
+- Written in `Bash Shell(GNU bash version 5.1.16(1)-release)`
+- Only test in `Ubuntu 22.04 LTS`, and it works 
 
 
 
 ## Appendix
 
-1. global variable in line 4~9 of 'run.sh' can be changed based on your own preference.
-2. all data is recorded and placed in 'log.txt'.
-3. 'log.txt' will automatically pushed to GitHub when operation of 'append' finished for file backup purpose.
+1. `global variable` in `line 4~9` of 'run.sh' can be changed based on `your own preference`.
+2. all data is recorded and placed in `log.txt`.
+3. `log.txt` will `automatically pushed to GitHub` when operation of `append` finished for file backup purpose.
 
 
 ## Screenshots
