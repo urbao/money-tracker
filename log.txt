@@ -63,3 +63,4 @@
 2022/12/12    income   6500  Scholarship                                       Thu Dec 15 20:16:06 2022
 2022/12/22   expense    227  Dinner with college mates                         Thu Dec 22 19:51:02 2022
 2023/01/08   expense    320  Cake & dessert for high school classmate Pan      Sun Jan 08 19:03:10 2023
+2023/01/09   expense    405  Eating with Pan in Chaozhou, Pingtung             Mon Jan 09 20:02:40 2023
