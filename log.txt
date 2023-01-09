@@ -64,3 +64,4 @@
 2022/12/22   expense    227  Dinner with college mates                         Thu Dec 22 19:51:02 2022
 2023/01/08   expense    320  Cake & dessert for high school classmate Pan      Sun Jan 08 19:03:10 2023
 2023/01/09   expense    405  Eating with Pan in Chaozhou, Pingtung             Mon Jan 09 20:02:40 2023
+2023/01/09   expense     10  Motorcycle parking fee in YongKang Train Station  Mon Jan 09 20:04:03 2023
