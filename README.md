@@ -49,6 +49,12 @@ Go to Desktop
   cd ~/Desktop/money_tracker
 ```
 
+<br/>Remove log.txt, and renew a new one
+```bash
+  rm log.txt
+  touch log.txt
+```
+
 <br/>Allow execution of files
 
 ```bash
@@ -66,6 +72,7 @@ Go to Desktop
 ```bash
   update-desktop-database ~/.local/share/applications/
 ```
+
 
 Open the application 'money tracker',and you are good to go!
 ### If You Failed to run the application, try followings
