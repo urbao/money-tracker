@@ -23,15 +23,6 @@ Money Tracker allows you to track your income and expense with simple interface<
 2. all data is recorded and placed in `log.txt`.
 3. `log.txt` will `automatically pushed to GitHub` when operation of `append` finished for file backup purpose.
 
-
-## Screenshots
-1.help function<br/>![help](https://user-images.githubusercontent.com/87600155/210159476-083328a0-f2a2-4149-b18e-f30becad6ea6.png)<br/><br/>
-2.show function<br/>![show](https://user-images.githubusercontent.com/87600155/210159480-160c34de-3ea7-4f46-9210-65d71321ef66.png)<br/><br/>
-3.find function<br/>![find](https://user-images.githubusercontent.com/87600155/210159488-e7253cb4-c4d3-4dc0-ba61-8e6aa2f1c755.png)<br/><br/>
-4.total function<br/>![total](https://user-images.githubusercontent.com/87600155/210159485-9e0601db-8938-464c-b378-5f61c2e82df9.png)<br/><br/>
-
-
-
 ## Run Locally
 
 Go to Desktop
@@ -73,6 +64,11 @@ Go to Desktop
   update-desktop-database ~/.local/share/applications/
 ```
 
+## Screenshots
+### 1.help function<br/>![help](https://user-images.githubusercontent.com/87600155/210159476-083328a0-f2a2-4149-b18e-f30becad6ea6.png)<br/><br/>
+### 2.show function<br/>![show](https://user-images.githubusercontent.com/87600155/210159480-160c34de-3ea7-4f46-9210-65d71321ef66.png)<br/><br/>
+### 3.find function<br/>![find](https://user-images.githubusercontent.com/87600155/210159488-e7253cb4-c4d3-4dc0-ba61-8e6aa2f1c755.png)<br/><br/>
+### 4.total function<br/>![total](https://user-images.githubusercontent.com/87600155/210159485-9e0601db-8938-464c-b378-5f61c2e82df9.png)<br/><br/>
 
 Open the application 'money tracker',and you are good to go!
 ### If You Failed to run the application, try followings
