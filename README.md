@@ -5,7 +5,7 @@ Money Tracker allows you to track your income and expense with simple interface<
 
 
 
-![wallet](https://user-images.githubusercontent.com/87600155/210162390-66085841-3fb4-4a86-8006-2f66329117fd.png)<br/>
+![wallet](https://cdn-icons-png.flaticon.com/128/8984/8984212.png)<br/>
 
 
 ## Features
