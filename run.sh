@@ -170,7 +170,7 @@ function finder(){
 	result=$(grep --color=always -i "$1" "$logfile")
 	if [ "$result" == "" ];
 	then print "red" "No matched case found" "nl"
-	else echo "$result"
+	else echo "${result}"
 	fi
 	echo
 	return 0
