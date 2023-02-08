@@ -69,3 +69,4 @@
 2023/01/21   expense    150  Ingredients of mushroom cream sauce               Sat Jan 21 18:50:59 2023
 2023/02/08    income   2000  YongKang grandpa new year red envelope            Wed Feb 08 23:43:35 2023
 2023/02/08    income   2000  Madou grandpa new year red envelope               Wed Feb 08 23:44:31 2023
+2023/02/08    income   6000  Mom & Dad new year red envelope                   Wed Feb 08 23:45:21 2023
