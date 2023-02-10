@@ -70,3 +70,4 @@
 2023/02/08    income   2000  YongKang grandpa new year red envelope            Wed Feb 08 23:43:35 2023
 2023/02/08    income   2000  Madou grandpa new year red envelope               Wed Feb 08 23:44:31 2023
 2023/02/08    income   6000  Mom & Dad new year red envelope                   Wed Feb 08 23:45:21 2023
+2023/02/10   expense   1000  Dinner for urn-roasted chicken on YongDa Rd.      Fri Feb 10 16:29:32 2023
