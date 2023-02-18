@@ -55,8 +55,8 @@
 2022/09/10   expense    550  High school classmates B.B.Q                      Sun Sep 11 15:44:13 2022
 2022/09/10   expense     40  Fireworks at Moon Festival                        Sun Sep 11 15:47:37 2022
 2022/09/11    income   4000  Tutor fee of Aug.                                 Sun Sep 11 15:48:32 2022
-2022/09/15   expense     90  Dinner with college classmates                    Thu Sep 15 20:13:33 2022
-2022/09/19   expense    100  Lunch with college classate                       Tue Sep 20 07:50:42 2022
+2022/09/15   expense     90  Dinner with college mates                         Thu Sep 15 20:13:33 2022
+2022/09/19   expense    100  Lunch with college mates                          Tue Sep 20 07:50:42 2022
 2022/10/02    income   3000  Tutor fee of Sep.                                 Sun Oct 02 13:23:54 2022
 2022/11/10    income   5000  Tutor fee of Oct.                                 Thu Nov 10 20:11:00 2022
 2022/12/09   expense    310  Hot pot for Mom's birthday                        Sat Dec 10 00:00:39 2022
