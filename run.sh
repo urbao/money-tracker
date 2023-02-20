@@ -115,8 +115,8 @@ function append(){
 			# append line to log file
 			print "yellow" "------- Done -------" "nl"
 			# backup with gitpush func
+            chmod 444 "$logfile"
 			gitpush
-			chmod 444 "$logfile"
 			return 0
 		elif [ "${ans,,}" == "n" ]
 		then
