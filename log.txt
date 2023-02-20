@@ -73,4 +73,3 @@
 2023/02/10   expense   1000  Dinner for urn-roasted chicken on YongDa Rd.      Fri Feb 10 16:29:32 2023
 2023/02/16   expense     75  Dinner with Lee(high school classmate)            Thu Feb 16 20:40:20 2023
 2023/02/20    income   2000  Lunch money for 111-2 semester from Mom           Mon Feb 20 18:50:40 2023
-damnit    damnit damnit  damnit                                            Mon Feb 20 18:54:06 2023
