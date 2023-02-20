@@ -46,7 +46,7 @@
 2022/07/28   expense     88  Eat McDonald's with high school classmates        Thu Jul 28 16:44:18 2022
 2022/08/07   expense    100  Ingrediants of braised pork                       Sun Aug 07 09:12:21 2022
 2022/08/07   expense     88  Eat Dain-Dain with high school classmates         Sun Aug 07 21:43:40 2022
-2022/08/07   expense     55  Buy salty crispy chicken for mom                  Sun Aug 07 21:44:00 2022
+2022/08/07   expense     55  Buy salty crispy chicken for Mom                  Sun Aug 07 21:44:00 2022
 2022/08/14    income   7000  Tutor fee of July                                 Sun Aug 14 13:12:09 2022
 2022/08/18   expense     70  Lunch at Yule Street                              Thu Aug 18 17:54:37 2022
 2022/08/19   expense     90  Lunch at Yule Street                              Fri Aug 19 18:37:01 2022
