@@ -74,3 +74,4 @@
 2023/02/16   expense     75  Dinner with Lee(high school classmate)            Thu Feb 16 20:40:20 2023
 2023/02/20    income   2000  Lunch money for 111-2 semester from Mom           Mon Feb 20 18:50:40 2023
 2023/02/20    income   1000  Grandpa's $1000                                   Mon Feb 20 19:03:40 2023
+2023/02/21   expense    120  Lunch with college mates                          Tue Feb 21 17:11:03 2023
