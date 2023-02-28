@@ -77,3 +77,4 @@
 2023/02/21   expense    120  Lunch with college mates                          Tue Feb 21 17:11:03 2023
 2023/02/23   expense  15000  Buy the 15'6 ASUS laptop                          Thu Feb 23 08:18:41 2023
 2023/02/24   expense     75  Lunch with college mates                          Fri Feb 24 22:27:27 2023
+2023/02/28    income   9000  Some forgotten money in piggy bank                Tue Feb 28 12:48:32 2023
