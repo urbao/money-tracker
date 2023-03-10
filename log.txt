@@ -80,3 +80,4 @@
 2023/02/28    income   9000  Some forgotten money in piggy bank                Tue Feb 28 12:48:32 2023
 2023/03/03   expense     95  Lunch with college mates                          Fri Mar 03 17:50:05 2023
 2023/03/07   expense    110  Lunch with college mates                          Tue Mar 07 17:21:08 2023
+2023/03/10   expense     70  Lunch with college mates                          Fri Mar 10 17:46:41 2023
