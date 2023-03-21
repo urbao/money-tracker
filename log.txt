@@ -84,3 +84,4 @@
 2023/03/14   expense    120  Lunch with college mates                          Tue Mar 14 17:41:26 2023
 2023/03/17   expense     90  Lunch with college mates                          Fri Mar 17 20:24:36 2023
 2023/03/17   expense    300  Hot pot for Dad's birthday                        Fri Mar 17 20:25:18 2023
+2023/03/21   expense    138  Lunch with college mates                          Tue Mar 21 19:11:02 2023
