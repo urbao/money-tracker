@@ -91,3 +91,4 @@
 2023/03/31   expense     95  Lunch with college mates                          Fri Mar 31 19:20:31 2023
 2023/04/02   expense    110  Dinner with Lee(high school classmate)            Sun Apr 02 20:18:20 2023
 2023/04/03   expense    109  Eat Dain-Dain with high school classmates         Mon Apr 03 20:23:14 2023
+2023/04/11   expense    120  Lunch with college mates                          Tue Apr 11 19:03:12 2023
