@@ -98,4 +98,4 @@
 2023/04/25   expense    110  Lunch with college mates                          Tue Apr 25 18:39:27 2023
 2023/04/28   expense    100  Lunch with college mates                          Fri Apr 28 18:04:00 2023
 2023/05/02   expense    110  Lunch with college mates                          Tue May 02 21:12:53 2023
-2024/05/05   expense     75  Lunch with college mates                          Fri May 05 18:04:02 2023
+2023/05/05   expense     75  Lunch with college mates                          Fri May 05 18:04:02 2023
