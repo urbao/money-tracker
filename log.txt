@@ -105,3 +105,4 @@
 2023/05/18    income   6500  Scholarship                                       Thu May 18 20:53:46 2023
 2023/05/19   expense     75  Lunch with college mates                          Fri May 19 19:04:54 2023
 2023/05/19   expense     85  Dinner with college mates                         Fri May 19 19:05:25 2023
+2023/05/23   expense    120  Lunch with college mates                          Tue May 23 17:40:23 2023
