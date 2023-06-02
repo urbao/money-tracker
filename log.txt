@@ -109,3 +109,4 @@
 2023/05/23   expense     20  Photocopy of semester transcipt for Google Camp   Tue May 23 17:42:29 2023
 2023/05/26   expense     80  Lunch with college mates                          Fri May 26 17:43:30 2023
 2023/05/30   expense    120  Lunch with college mates                          Tue May 30 18:51:44 2023
+2023/06/02   expense    170  Lunch with college mates                          Fri Jun 02 20:10:20 2023
