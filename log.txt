@@ -111,3 +111,4 @@
 2023/05/30   expense    120  Lunch with college mates                          Tue May 30 18:51:44 2023
 2023/06/02   expense    170  Lunch with college mates                          Fri Jun 02 20:10:20 2023
 2023/06/06   expense    120  Lunch with college mates                          Tue Jun 06 17:03:32 2023
+2023/06/08   expense    549  Mouse & keyboard combo                            Thu Jun 08 18:10:29 2023
