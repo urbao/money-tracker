@@ -114,3 +114,4 @@
 2023/06/08   expense    549  Mouse & keyboard combo                            Thu Jun 08 18:10:29 2023
 2023/06/09   expense     90  Lunch with college mates                          Fri Jun 09 19:08:17 2023
 2023/06/09   expense     65  Eat grass jelly with high school classmate        Fri Jun 09 19:10:26 2023
+2023/06/14   expense     75  Buying lunch                                      Wed Jun 14 18:01:02 2023
