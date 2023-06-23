@@ -119,3 +119,4 @@
 2023/06/18    income   1000  Grandpa's $1000                                   Sun Jun 18 12:59:41 2023
 2023/06/19   expense     65  Lunch with college mates                          Mon Jun 19 18:54:54 2023
 2023/06/21   expense     60  Lunch with college mates                          Wed Jun 21 14:29:36 2023
+2023/06/23   expense   1090  Buying new ASICS sneaker                          Fri Jun 23 11:02:29 2023
