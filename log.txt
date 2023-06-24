@@ -120,3 +120,4 @@
 2023/06/19   expense     65  Lunch with college mates                          Mon Jun 19 18:54:54 2023
 2023/06/21   expense     60  Lunch with college mates                          Wed Jun 21 14:29:36 2023
 2023/06/23   expense   1090  Buying new ASICS sneaker                          Fri Jun 23 11:02:29 2023
+2023/06/24   expense    790  Eating steak with family                          Sat Jun 24 22:08:36 2023
