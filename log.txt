@@ -121,3 +121,4 @@
 2023/06/21   expense     60  Lunch with college mates                          Wed Jun 21 14:29:36 2023
 2023/06/23   expense   1090  Buying new ASICS sneaker                          Fri Jun 23 11:02:29 2023
 2023/06/24   expense    790  Eating steak with family                          Sat Jun 24 22:08:36 2023
+2023/06/25    income   1000  Lunch money for summer from Mom                   Mon Jun 26 15:02:31 2023
