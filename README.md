@@ -25,45 +25,25 @@ Money Tracker allows you to track your income and expense with simple interface<
 
 ## Run Locally
 
-Go to Desktop
+<br/>Clone the project
 ```bash
   cd ~/Desktop/
-```
-
-<br/>Clone the project
-
-```bash
   git clone git@github.com:urbao/money_tracker.git
 ```
-<br/>Go to project directory 
+<br/>Go to project directory, and remove log.txt
 ```bash
   cd ~/Desktop/money_tracker
-```
-
-<br/>Remove log.txt, and renew a new one
-```bash
   rm log.txt
   touch log.txt
 ```
 
-<br/>Allow execution of files
+<br/>Move desktop file for application, and update application database
 
 ```bash
   chmod +x ./run.sh money_tracker.desktop
-```
-
-<br/>Move desktop file for application
-
-```bash
-  mv money_tracker.desktop ~/.local/share/applications/ 
-```
-
-<br/>Update application database
-
-```bash
+  mv money_tracker.desktop ~/.local/share/applications/
   update-desktop-database ~/.local/share/applications/
 ```
-
 
 Open the application 'money tracker',and you are good to go!
 ### If You Failed to run the application, try followings
