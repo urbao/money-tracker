@@ -178,6 +178,8 @@ function finder(){
 
 #-------------------------------------------#
 
+# print some line for the first time open money tracker
+print "white" "type 'help' or '?' to get help message\n" "nl"
 
 # main part fuction, keep working until `exit` command typed
 while true
@@ -189,6 +191,7 @@ do
 	elif [[ "$input" == "clear" ]] && [[ "$option" == "" ]]; then clear
 	elif [[ "$input" == "show" ]] && [[ "$option" == "" ]]; then show 
 	elif [[ "$input" == "help" ]] && [[ "$option" == "" ]]; then help
+	elif [[ "$input" == "?" ]] && [[ "$option" == "" ]]; then help
 	elif [[ "$input" == "append" ]] && [[ "$option" == "" ]]; then append
 	elif [[ "$input" == "total" ]] && [[ "$option" == "" ]]; then total
 	elif [[ "$input" == "find" ]] && [[ "$option" != "" ]]; then finder "$option"
