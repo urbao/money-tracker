@@ -127,3 +127,4 @@
 2023/06/29   expense     70  Lunch at Yule Street                              Thu Jun 29 17:26:39 2023
 2023/07/03   expense     80  Lunch at Yule Street                              Tue Jul 04 18:38:17 2023
 2023/07/04   expense     70  Lunch at Yule Street                              Tue Jul 04 18:38:41 2023
+2023/07/05    income  28100  Tutor fee of Mar, Apr, May, June                  Wed Jul 05 22:32:32 2023
