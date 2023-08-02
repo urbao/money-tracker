@@ -140,3 +140,4 @@
 2023/07/24   expense     70  Lunch at Yule Street                              Tue Jul 25 08:14:07 2023
 2023/07/25   expense     85  Lunch at Yule Street                              Tue Jul 25 17:40:57 2023
 2023/07/26   expense     60  Buying lunch                                      Wed Jul 26 13:52:18 2023
+2023/08/02   expense    210  Lunch with high school classmate                  Wed Aug 02 15:07:43 2023
