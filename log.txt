@@ -143,3 +143,4 @@
 2023/08/02   expense    210  Lunch with high school classmate                  Wed Aug 02 15:07:43 2023
 2023/08/03   expense     50  Buying fishing bait(1 pack of shrimp)             Thu Aug 03 20:13:30 2023
 2023/08/03   expense     55  Dinner with Lee(high school classmate)            Thu Aug 03 20:14:44 2023
+2023/08/06   expense     79  Buying fishing bait(alive shrimps)                Sun Aug 06 17:57:25 2023
