@@ -147,3 +147,4 @@
 2023/08/14   expense     75  Buying lunch at NCKU                              Mon Aug 14 17:47:18 2023
 2023/08/15   expense     65  Lunch at Yule Street                              Tue Aug 15 18:37:19 2023
 2023/08/16   expense     55  Lunch at Yule Street                              Wed Aug 16 17:47:41 2023
+2023/08/17   expense     70  Lunch at Yule Street                              Thu Aug 17 17:55:12 2023
