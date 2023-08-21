@@ -149,3 +149,4 @@
 2023/08/16   expense     55  Lunch at Yule Street                              Wed Aug 16 17:47:41 2023
 2023/08/17   expense     70  Lunch at Yule Street                              Thu Aug 17 17:55:12 2023
 2023/08/18   expense     65  Lunch at Yule Street                              Fri Aug 18 18:16:05 2023
+2023/08/21    income   1000  Grandpa's $1000                                   Mon Aug 21 16:35:54 2023
