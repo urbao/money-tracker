@@ -152,3 +152,4 @@
 2023/08/21    income   1000  Grandpa's $1000                                   Mon Aug 21 16:35:54 2023
 2023/08/26   expense     94  Eat Dain-Dain with high school classmates         Sat Aug 26 22:27:53 2023
 2023/08/31   expense     55  Buying lunch                                      Thu Aug 31 13:01:34 2023
+2023/09/04    income   2000  Lunch money for 112-1 semester from Mom           Mon Sep 04 17:16:45 2023
