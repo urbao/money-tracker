@@ -156,3 +156,4 @@
 2023/09/05   expense     40  Lunch with college mates                          Tue Sep 05 17:05:18 2023
 2023/09/08   expense    148  Lunch with college mates                          Fri Sep 08 19:52:43 2023
 2023/09/10   expense    160  Buying snacks to high school classmate home       Sun Sep 10 22:05:04 2023
+2023/09/12   expense     55  Lunch with college mates                          Tue Sep 12 17:32:06 2023
