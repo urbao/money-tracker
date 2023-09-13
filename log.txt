@@ -158,3 +158,4 @@
 2023/09/10   expense    160  Buying snacks to high school classmate home       Sun Sep 10 22:05:04 2023
 2023/09/12   expense     55  Lunch with college mates                          Tue Sep 12 17:32:06 2023
 2023/09/13   expense     80  Lunch with college mates                          Wed Sep 13 17:33:57 2023
+2023/09/13    income   7000  Lab salary of July and August                     Wed Sep 13 17:34:59 2023
