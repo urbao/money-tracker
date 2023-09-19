@@ -161,3 +161,4 @@
 2023/09/13    income   7000  Lab salary of July and August                     Wed Sep 13 17:34:59 2023
 2023/09/15   expense    120  Lunch with college mates                          Fri Sep 15 18:35:24 2023
 2023/09/17   expense    956  Pizza for sister's birthday                       Sun Sep 17 16:49:00 2023
+2023/09/19   expense     60  Lunch with college mates                          Tue Sep 19 17:49:27 2023
