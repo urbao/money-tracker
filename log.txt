@@ -48,15 +48,15 @@
 2022/08/07   expense     88  Eat Dain-Dain with high school classmates         Sun Aug 07 21:43:40 2022
 2022/08/07   expense     55  Buy salty crispy chicken for Mom                  Sun Aug 07 21:44:00 2022
 2022/08/14    income   7000  Tutor fee of July                                 Sun Aug 14 13:12:09 2022
-2022/08/18   expense     70  Lunch at Yule Street                              Thu Aug 18 17:54:37 2022
-2022/08/19   expense     90  Lunch at Yule Street                              Fri Aug 19 18:37:01 2022
+2022/08/18   expense     70  Lunch Expense                                     Thu Aug 18 17:54:37 2022
+2022/08/19   expense     90  Lunch Expense                                     Fri Aug 19 18:37:01 2022
 2022/09/10   expense    250  Samsung tablet case                               Sun Sep 11 15:40:05 2022
 2022/09/10   expense     25  Buying bird's feed                                Sun Sep 11 15:41:26 2022
 2022/09/10   expense    550  High school classmates B.B.Q                      Sun Sep 11 15:44:13 2022
 2022/09/10   expense     40  Fireworks at Moon Festival                        Sun Sep 11 15:47:37 2022
 2022/09/11    income   4000  Tutor fee of Aug.                                 Sun Sep 11 15:48:32 2022
 2022/09/15   expense     90  Dinner with college mates                         Thu Sep 15 20:13:33 2022
-2022/09/19   expense    100  Lunch with college mates                          Tue Sep 20 07:50:42 2022
+2022/09/19   expense    100  Lunch Expense                                     Tue Sep 20 07:50:42 2022
 2022/10/02    income   3000  Tutor fee of Sep.                                 Sun Oct 02 13:23:54 2022
 2022/11/10    income   5000  Tutor fee of Oct.                                 Thu Nov 10 20:11:00 2022
 2022/12/09   expense    310  Hot pot for Mom's birthday                        Sat Dec 10 00:00:39 2022
@@ -74,99 +74,100 @@
 2023/02/16   expense     75  Dinner with Lee(high school classmate)            Thu Feb 16 20:40:20 2023
 2023/02/20    income   2000  Lunch money for 111-2 semester from Mom           Mon Feb 20 18:50:40 2023
 2023/02/20    income   1000  Grandpa's $1000                                   Mon Feb 20 19:03:40 2023
-2023/02/21   expense    120  Lunch with college mates                          Tue Feb 21 17:11:03 2023
+2023/02/21   expense    120  Lunch Expense                                     Tue Feb 21 17:11:03 2023
 2023/02/23   expense  15000  Buy the 15'6 ASUS laptop                          Thu Feb 23 08:18:41 2023
-2023/02/24   expense     75  Lunch with college mates                          Fri Feb 24 22:27:27 2023
+2023/02/24   expense     75  Lunch Expense                                     Fri Feb 24 22:27:27 2023
 2023/02/28    income   9000  Some forgotten money in piggy bank                Tue Feb 28 12:48:32 2023
-2023/03/03   expense     95  Lunch with college mates                          Fri Mar 03 17:50:05 2023
-2023/03/07   expense    110  Lunch with college mates                          Tue Mar 07 17:21:08 2023
-2023/03/10   expense     70  Lunch with college mates                          Fri Mar 10 17:46:41 2023
-2023/03/14   expense    120  Lunch with college mates                          Tue Mar 14 17:41:26 2023
-2023/03/17   expense     90  Lunch with college mates                          Fri Mar 17 20:24:36 2023
+2023/03/03   expense     95  Lunch Expense                                     Fri Mar 03 17:50:05 2023
+2023/03/07   expense    110  Lunch Expense                                     Tue Mar 07 17:21:08 2023
+2023/03/10   expense     70  Lunch Expense                                     Fri Mar 10 17:46:41 2023
+2023/03/14   expense    120  Lunch Expense                                     Tue Mar 14 17:41:26 2023
+2023/03/17   expense     90  Lunch Expense                                     Fri Mar 17 20:24:36 2023
 2023/03/17   expense    300  Hot pot for Dad's birthday                        Fri Mar 17 20:25:18 2023
-2023/03/21   expense    138  Lunch with college mates                          Tue Mar 21 19:11:02 2023
-2023/03/22   expense     70  Lunch with college mates                          Wed Mar 22 14:02:07 2023
-2023/03/24   expense     70  Lunch with college mates                          Fri Mar 24 20:41:50 2023
-2023/03/28   expense    130  Lunch with college mates                          Tue Mar 28 17:53:00 2023
-2023/03/31   expense     95  Lunch with college mates                          Fri Mar 31 19:20:31 2023
+2023/03/21   expense    138  Lunch Expense                                     Tue Mar 21 19:11:02 2023
+2023/03/22   expense     70  Lunch Expense                                     Wed Mar 22 14:02:07 2023
+2023/03/24   expense     70  Lunch Expense                                     Fri Mar 24 20:41:50 2023
+2023/03/28   expense    130  Lunch Expense                                     Tue Mar 28 17:53:00 2023
+2023/03/31   expense     95  Lunch Expense                                     Fri Mar 31 19:20:31 2023
 2023/04/02   expense    110  Dinner with Lee(high school classmate)            Sun Apr 02 20:18:20 2023
 2023/04/03   expense    109  Eat Dain-Dain with high school classmates         Mon Apr 03 20:23:14 2023
-2023/04/11   expense    120  Lunch with college mates                          Tue Apr 11 19:03:12 2023
-2023/04/14   expense     75  Lunch with college mates                          Fri Apr 14 19:23:47 2023
-2024/04/18   expense    120  Lunch with college mates                          Tue Apr 18 20:48:20 2023
-2023/04/21   expense    110  Lunch with college mates                          Fri Apr 21 17:27:48 2023
-2023/04/25   expense    110  Lunch with college mates                          Tue Apr 25 18:39:27 2023
-2023/04/28   expense    100  Lunch with college mates                          Fri Apr 28 18:04:00 2023
-2023/05/02   expense    110  Lunch with college mates                          Tue May 02 21:12:53 2023
-2023/05/05   expense     75  Lunch with college mates                          Fri May 05 18:04:02 2023
-2023/05/09   expense    130  Lunch with college mates                          Tue May 09 18:18:23 2023
-2023/05/12   expense     85  Lunch with college mates                          Fri May 12 18:08:57 2023
-2023/05/16   expense    140  Lunch with college mates                          Tue May 16 17:41:11 2023
+2023/04/11   expense    120  Lunch Expense                                     Tue Apr 11 19:03:12 2023
+2023/04/14   expense     75  Lunch Expense                                     Fri Apr 14 19:23:47 2023
+2024/04/18   expense    120  Lunch Expense                                     Tue Apr 18 20:48:20 2023
+2023/04/21   expense    110  Lunch Expense                                     Fri Apr 21 17:27:48 2023
+2023/04/25   expense    110  Lunch Expense                                     Tue Apr 25 18:39:27 2023
+2023/04/28   expense    100  Lunch Expense                                     Fri Apr 28 18:04:00 2023
+2023/05/02   expense    110  Lunch Expense                                     Tue May 02 21:12:53 2023
+2023/05/05   expense     75  Lunch Expense                                     Fri May 05 18:04:02 2023
+2023/05/09   expense    130  Lunch Expense                                     Tue May 09 18:18:23 2023
+2023/05/12   expense     85  Lunch Expense                                     Fri May 12 18:08:57 2023
+2023/05/16   expense    140  Lunch Expense                                     Tue May 16 17:41:11 2023
 2023/05/18    income   6500  Scholarship                                       Thu May 18 20:53:46 2023
-2023/05/19   expense     75  Lunch with college mates                          Fri May 19 19:04:54 2023
+2023/05/19   expense     75  Lunch Expense                                     Fri May 19 19:04:54 2023
 2023/05/19   expense     85  Dinner with college mates                         Fri May 19 19:05:25 2023
-2023/05/23   expense    120  Lunch with college mates                          Tue May 23 17:40:23 2023
+2023/05/23   expense    120  Lunch Expense                                     Tue May 23 17:40:23 2023
 2023/05/23   expense     20  Photocopy of semester transcipt for Google Camp   Tue May 23 17:42:29 2023
-2023/05/26   expense     80  Lunch with college mates                          Fri May 26 17:43:30 2023
-2023/05/30   expense    120  Lunch with college mates                          Tue May 30 18:51:44 2023
-2023/06/02   expense    170  Lunch with college mates                          Fri Jun 02 20:10:20 2023
-2023/06/06   expense    120  Lunch with college mates                          Tue Jun 06 17:03:32 2023
+2023/05/26   expense     80  Lunch Expense                                     Fri May 26 17:43:30 2023
+2023/05/30   expense    120  Lunch Expense                                     Tue May 30 18:51:44 2023
+2023/06/02   expense    170  Lunch Expense                                     Fri Jun 02 20:10:20 2023
+2023/06/06   expense    120  Lunch Expense                                     Tue Jun 06 17:03:32 2023
 2023/06/08   expense    549  Mouse & keyboard combo                            Thu Jun 08 18:10:29 2023
-2023/06/09   expense     90  Lunch with college mates                          Fri Jun 09 19:08:17 2023
+2023/06/09   expense     90  Lunch Expense                                     Fri Jun 09 19:08:17 2023
 2023/06/09   expense     65  Eat grass jelly with high school classmate        Fri Jun 09 19:10:26 2023
 2023/06/14   expense     75  Buying lunch                                      Wed Jun 14 18:01:02 2023
-2023/06/16   expense     85  Lunch with college mates                          Fri Jun 16 17:54:04 2023
+2023/06/16   expense     85  Lunch Expense                                     Fri Jun 16 17:54:04 2023
 2023/06/18    income   1000  Grandpa's $1000                                   Sun Jun 18 12:59:41 2023
-2023/06/19   expense     65  Lunch with college mates                          Mon Jun 19 18:54:54 2023
-2023/06/21   expense     60  Lunch with college mates                          Wed Jun 21 14:29:36 2023
+2023/06/19   expense     65  Lunch Expense                                     Mon Jun 19 18:54:54 2023
+2023/06/21   expense     60  Lunch Expense                                     Wed Jun 21 14:29:36 2023
 2023/06/23   expense   1090  Buying new ASICS sneaker                          Fri Jun 23 11:02:29 2023
 2023/06/24   expense    790  Eating steak with family                          Sat Jun 24 22:08:36 2023
 2023/06/26    income   1000  Lunch money for summer from Mom                   Mon Jun 26 15:02:31 2023
-2023/06/27   expense     65  Lunch at Yule Street                              Tue Jun 27 17:26:18 2023
-2023/06/28   expense     70  Lunch at Yule Street                              Wed Jun 28 17:36:56 2023
-2023/06/29   expense     70  Lunch at Yule Street                              Thu Jun 29 17:26:39 2023
-2023/07/03   expense     80  Lunch at Yule Street                              Tue Jul 04 18:38:17 2023
-2023/07/04   expense     70  Lunch at Yule Street                              Tue Jul 04 18:38:41 2023
+2023/06/27   expense     65  Lunch Expense                                     Tue Jun 27 17:26:18 2023
+2023/06/28   expense     70  Lunch Expense                                     Wed Jun 28 17:36:56 2023
+2023/06/29   expense     70  Lunch Expense                                     Thu Jun 29 17:26:39 2023
+2023/07/03   expense     80  Lunch Expense                                     Tue Jul 04 18:38:17 2023
+2023/07/04   expense     70  Lunch Expense                                     Tue Jul 04 18:38:41 2023
 2023/07/05    income  28100  Tutor fee of Mar, Apr, May, June                  Wed Jul 05 22:32:32 2023
 2023/07/10   expense     74  Lunch at 7-11                                     Mon Jul 10 20:06:48 2023
-2023/07/11   expense     75  Lunch with college mates                          Tue Jul 11 17:55:22 2023
-2023/07/12   expense     65  Lunch with college mates                          Wed Jul 12 18:30:56 2023
-2023/07/13   expense     70  Lunch with college mates                          Thu Jul 13 18:52:44 2023
-2023/07/14   expense     75  Lunch with college mates                          Fri Jul 14 16:25:03 2023
-2023/07/17   expense     70  Lunch with college mates                          Mon Jul 17 18:41:19 2023
-2023/07/19   expense     70  Lunch at Yule Street                              Wed Jul 19 19:14:45 2023
-2023/07/21   expense     70  Lunch at Yule Street                              Fri Jul 21 17:46:12 2023
+2023/07/11   expense     75  Lunch Expense                                     Tue Jul 11 17:55:22 2023
+2023/07/12   expense     65  Lunch Expense                                     Wed Jul 12 18:30:56 2023
+2023/07/13   expense     70  Lunch Expense                                     Thu Jul 13 18:52:44 2023
+2023/07/14   expense     75  Lunch Expense                                     Fri Jul 14 16:25:03 2023
+2023/07/17   expense     70  Lunch Expense                                     Mon Jul 17 18:41:19 2023
+2023/07/19   expense     70  Lunch Expense                                     Wed Jul 19 19:14:45 2023
+2023/07/21   expense     70  Lunch Expense                                     Fri Jul 21 17:46:12 2023
 2023/07/21   expense    399  Buying new pants                                  Fri Jul 21 20:58:42 2023
-2023/07/24   expense     70  Lunch at Yule Street                              Tue Jul 25 08:14:07 2023
-2023/07/25   expense     85  Lunch at Yule Street                              Tue Jul 25 17:40:57 2023
+2023/07/24   expense     70  Lunch Expense                                     Tue Jul 25 08:14:07 2023
+2023/07/25   expense     85  Lunch Expense                                     Tue Jul 25 17:40:57 2023
 2023/07/26   expense     60  Buying lunch                                      Wed Jul 26 13:52:18 2023
 2023/08/02   expense    210  Lunch with high school classmate                  Wed Aug 02 15:07:43 2023
 2023/08/03   expense     50  Buying fishing bait(1 pack of shrimp)             Thu Aug 03 20:13:30 2023
 2023/08/03   expense     55  Dinner with Lee(high school classmate)            Thu Aug 03 20:14:44 2023
 2023/08/06   expense     79  Buying fishing bait(alive shrimps)                Sun Aug 06 17:57:25 2023
 2023/08/14   expense     75  Buying lunch at NCKU                              Mon Aug 14 17:47:18 2023
-2023/08/15   expense     65  Lunch at Yule Street                              Tue Aug 15 18:37:19 2023
-2023/08/16   expense     55  Lunch at Yule Street                              Wed Aug 16 17:47:41 2023
-2023/08/17   expense     70  Lunch at Yule Street                              Thu Aug 17 17:55:12 2023
-2023/08/18   expense     65  Lunch at Yule Street                              Fri Aug 18 18:16:05 2023
+2023/08/15   expense     65  Lunch Expense                                     Tue Aug 15 18:37:19 2023
+2023/08/16   expense     55  Lunch Expense                                     Wed Aug 16 17:47:41 2023
+2023/08/17   expense     70  Lunch Expense                                     Thu Aug 17 17:55:12 2023
+2023/08/18   expense     65  Lunch Expense                                     Fri Aug 18 18:16:05 2023
 2023/08/21    income   1000  Grandpa's $1000                                   Mon Aug 21 16:35:54 2023
 2023/08/26   expense     94  Eat Dain-Dain with high school classmates         Sat Aug 26 22:27:53 2023
 2023/08/31   expense     55  Buying lunch                                      Thu Aug 31 13:01:34 2023
 2023/09/04    income   2000  Lunch money for 112-1 semester from Mom           Mon Sep 04 17:16:45 2023
-2023/09/05   expense     40  Lunch with college mates                          Tue Sep 05 17:05:18 2023
-2023/09/08   expense    148  Lunch with college mates                          Fri Sep 08 19:52:43 2023
+2023/09/05   expense     40  Lunch Expense                                     Tue Sep 05 17:05:18 2023
+2023/09/08   expense    148  Lunch Expense                                     Fri Sep 08 19:52:43 2023
 2023/09/10   expense    160  Buying snacks to high school classmate home       Sun Sep 10 22:05:04 2023
-2023/09/12   expense     55  Lunch with college mates                          Tue Sep 12 17:32:06 2023
-2023/09/13   expense     80  Lunch with college mates                          Wed Sep 13 17:33:57 2023
+2023/09/12   expense     55  Lunch Expense                                     Tue Sep 12 17:32:06 2023
+2023/09/13   expense     80  Lunch Expense                                     Wed Sep 13 17:33:57 2023
 2023/09/13    income   7000  Lab salary of July and August                     Wed Sep 13 17:34:59 2023
-2023/09/15   expense    120  Lunch with college mates                          Fri Sep 15 18:35:24 2023
+2023/09/15   expense    120  Lunch Expense                                     Fri Sep 15 18:35:24 2023
 2023/09/17   expense    956  Pizza for sister's birthday                       Sun Sep 17 16:49:00 2023
-2023/09/19   expense     60  Lunch with college mates                          Tue Sep 19 17:49:27 2023
-2023/09/22   expense    120  Lunch with college mates                          Fri Sep 22 18:31:06 2023
+2023/09/19   expense     60  Lunch Expense                                     Tue Sep 19 17:49:27 2023
+2023/09/22   expense    120  Lunch Expense                                     Fri Sep 22 18:31:06 2023
 2023/09/22   expense     40  Photocopy of 2 semester transcripts               Fri Sep 22 18:32:29 2023
-2023/10/03   expense     75  Lunch with college mates                          Tue Oct 03 18:02:06 2023
-2023/10/06   expense    120  Lunch with college mates                          Fri Oct 06 20:32:54 2023
-2023/10/13   expense    130  Lunch with college mates                          Fri Oct 13 20:32:12 2023
-2023/10/17   expense     75  Lunch with college mates                          Tue Oct 17 18:02:44 2023
-2023/10/20   expense    159  Lunch with college mates                          Fri Oct 20 20:10:03 2023
-2023/10/24   expense     75  Lunch with college mates                          Tue Oct 24 18:35:17 2023
+2023/10/03   expense     75  Lunch Expense                                     Tue Oct 03 18:02:06 2023
+2023/10/06   expense    120  Lunch Expense                                     Fri Oct 06 20:32:54 2023
+2023/10/13   expense    130  Lunch Expense                                     Fri Oct 13 20:32:12 2023
+2023/10/17   expense     75  Lunch Expense                                     Tue Oct 17 18:02:44 2023
+2023/10/20   expense    159  Lunch Expense                                     Fri Oct 20 20:10:03 2023
+2023/10/24   expense     75  Lunch Expense                                     Tue Oct 24 18:35:17 2023
+2023/10/27   expense     85  Lunch Expense                                     Fri Oct 27 20:15:44 2023
