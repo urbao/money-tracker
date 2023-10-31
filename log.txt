@@ -114,7 +114,7 @@
 2023/06/08   expense    549  Mouse & keyboard combo                            Thu Jun 08 18:10:29 2023
 2023/06/09   expense     90  Lunch Expense                                     Fri Jun 09 19:08:17 2023
 2023/06/09   expense     65  Eat grass jelly with high school classmate        Fri Jun 09 19:10:26 2023
-2023/06/14   expense     75  Buying lunch                                      Wed Jun 14 18:01:02 2023
+2023/06/14   expense     75  Lunch Expense                                     Wed Jun 14 18:01:02 2023
 2023/06/16   expense     85  Lunch Expense                                     Fri Jun 16 17:54:04 2023
 2023/06/18    income   1000  Grandpa's $1000                                   Sun Jun 18 12:59:41 2023
 2023/06/19   expense     65  Lunch Expense                                     Mon Jun 19 18:54:54 2023
@@ -139,19 +139,19 @@
 2023/07/21   expense    399  Buying new pants                                  Fri Jul 21 20:58:42 2023
 2023/07/24   expense     70  Lunch Expense                                     Tue Jul 25 08:14:07 2023
 2023/07/25   expense     85  Lunch Expense                                     Tue Jul 25 17:40:57 2023
-2023/07/26   expense     60  Buying lunch                                      Wed Jul 26 13:52:18 2023
+2023/07/26   expense     60  Lunch Expense                                     Wed Jul 26 13:52:18 2023
 2023/08/02   expense    210  Lunch with high school classmate                  Wed Aug 02 15:07:43 2023
 2023/08/03   expense     50  Buying fishing bait(1 pack of shrimp)             Thu Aug 03 20:13:30 2023
 2023/08/03   expense     55  Dinner with Lee(high school classmate)            Thu Aug 03 20:14:44 2023
 2023/08/06   expense     79  Buying fishing bait(alive shrimps)                Sun Aug 06 17:57:25 2023
-2023/08/14   expense     75  Buying lunch at NCKU                              Mon Aug 14 17:47:18 2023
+2023/08/14   expense     75  Lunch Expense                                     Mon Aug 14 17:47:18 2023
 2023/08/15   expense     65  Lunch Expense                                     Tue Aug 15 18:37:19 2023
 2023/08/16   expense     55  Lunch Expense                                     Wed Aug 16 17:47:41 2023
 2023/08/17   expense     70  Lunch Expense                                     Thu Aug 17 17:55:12 2023
 2023/08/18   expense     65  Lunch Expense                                     Fri Aug 18 18:16:05 2023
 2023/08/21    income   1000  Grandpa's $1000                                   Mon Aug 21 16:35:54 2023
 2023/08/26   expense     94  Eat Dain-Dain with high school classmates         Sat Aug 26 22:27:53 2023
-2023/08/31   expense     55  Buying lunch                                      Thu Aug 31 13:01:34 2023
+2023/08/31   expense     55  Lunch Expense                                     Thu Aug 31 13:01:34 2023
 2023/09/04    income   2000  Lunch money for 112-1 semester from Mom           Mon Sep 04 17:16:45 2023
 2023/09/05   expense     40  Lunch Expense                                     Tue Sep 05 17:05:18 2023
 2023/09/08   expense    148  Lunch Expense                                     Fri Sep 08 19:52:43 2023
@@ -171,3 +171,4 @@
 2023/10/20   expense    159  Lunch Expense                                     Fri Oct 20 20:10:03 2023
 2023/10/24   expense     75  Lunch Expense                                     Tue Oct 24 18:35:17 2023
 2023/10/27   expense     85  Lunch Expense                                     Fri Oct 27 20:15:44 2023
+2023/10/31   expense     75  Lunch Expense                                     Tue Oct 31 18:02:15 2023
