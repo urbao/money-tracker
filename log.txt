@@ -178,3 +178,4 @@
 2023/11/14   expense    240  Fishing tackle expense                            Tue Nov 14 20:32:01 2023
 2023/11/14   expense     70  Lunch Expense                                     Tue Nov 14 20:32:32 2023
 2023/11/16   expense    725  Lagoon fishing expense                            Thu Nov 16 18:52:36 2023
+2023/11/17   expense    158  Lunch Expense                                     Fri Nov 17 19:14:56 2023
