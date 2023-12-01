@@ -184,3 +184,4 @@
 2023/11/24   expense    120  Lunch Expense                                     Fri Nov 24 18:58:37 2023
 2023/11/28   expense     75  Lunch Expense                                     Tue Nov 28 17:40:41 2023
 2023/11/30   expense     75  Lunch Expense                                     Thu Nov 30 20:30:02 2023
+2023/12/01   expense    120  Lunch Expense                                     Fri Dec 01 19:04:37 2023
