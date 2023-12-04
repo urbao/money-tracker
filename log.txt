@@ -186,4 +186,5 @@
 2023/11/30   expense     75  Lunch Expense                                     Thu Nov 30 20:30:02 2023
 2023/12/01   expense    120  Lunch Expense                                     Fri Dec 01 19:04:37 2023
 2023/12/04    income   9000  Tutor fee of July, Aug                            Mon Dec 04 12:25:38 2023
-2023/12/04    income   6400  Tutor fee of Sep.                                 Mon Dec 04 12:27:15 2023
+2023/12/04    income   6400  Tutor fee of September                            Mon Dec 04 12:27:15 2023
+2023/12/04    income  10400  Tutor fee of Oct, Nov                             Mon Dec 04 12:28:33 2023
