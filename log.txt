@@ -189,3 +189,4 @@
 2023/12/04    income   6400  Tutor fee of September                            Mon Dec 04 12:27:15 2023
 2023/12/04    income  10400  Tutor fee of Oct, Nov                             Mon Dec 04 12:28:33 2023
 2023/12/05   expense   4590  Samsung A14 phone                                 Tue Dec 05 17:55:25 2023
+2023/12/05   expense     75  Lunch Expense                                     Tue Dec 05 17:57:16 2023
