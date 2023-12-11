@@ -191,3 +191,4 @@
 2023/12/05   expense   4590  Samsung A14 phone                                 Tue Dec 05 17:55:25 2023
 2023/12/05   expense     75  Lunch Expense                                     Tue Dec 05 17:57:16 2023
 2023/12/08   expense    158  Lunch Expense                                     Fri Dec 08 20:38:00 2023
+2023/12/11   expense    255  Steak with high school classmates                 Mon Dec 11 17:42:01 2023
