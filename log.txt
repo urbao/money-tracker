@@ -194,3 +194,4 @@
 2023/12/11   expense    255  Steak with high school classmates                 Mon Dec 11 17:42:01 2023
 2023/12/11   expense    500  Hot pot for Mom's birthday                        Tue Dec 12 07:55:03 2023
 2023/11/12   expense     65  Lunch Expense                                     Tue Dec 12 20:09:40 2023
+2023/12/14   expense     75  Lunch Expense                                     Thu Dec 14 15:38:13 2023
