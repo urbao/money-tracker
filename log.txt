@@ -199,3 +199,4 @@
 2023/12/15   expense    120  Lunch Expense                                     Fri Dec 15 20:19:20 2023
 2023/12/16    income   6500  Scholarship                                       Sat Dec 16 13:59:14 2023
 2023/12/19   expense     75  Lunch Expense                                     Tue Dec 19 17:58:51 2023
+2023/12/26   expense     90  Lunch Expense                                     Tue Dec 26 17:46:25 2023
