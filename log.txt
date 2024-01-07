@@ -202,4 +202,5 @@
 2023/12/26   expense     90  Lunch Expense                                     Tue Dec 26 17:46:25 2023
 2023/12/29   expense    120  Lunch Expense                                     Fri Dec 29 18:35:43 2023
 2024/01/02   expense     75  Lunch Expense                                     Tue Jan 02 20:06:35 2024
-20240105   expense    130  Lunch Expense                                     Fri Jan 05 18:46:24 2024
+2024/01/05   expense    130  Lunch Expense                                     Fri Jan 05 18:46:24 2024
+2024/01/07    income   1000  Lunch money for winter from Mom                   Sun Jan 07 11:14:00 2024
