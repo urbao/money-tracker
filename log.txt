@@ -227,3 +227,4 @@
 2024/01/31   expense     70  Lunch Expense                                     Wed Jan 31 17:45:09 2024
 2024/02/01   expense    158  Lunch Expense                                     Thu Feb 01 18:10:18 2024
 2024/02/02   expense     65  Lunch Expense                                     Fri Feb 02 21:58:20 2024
+2024/02/24    income  17400  Tutor fee of Dec, Jan                             Sun Feb 04 12:54:16 2024
