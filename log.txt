@@ -230,3 +230,4 @@
 2024/02/24    income  17400  Tutor fee of Dec, Jan                             Sun Feb 04 12:54:16 2024
 2024/02/16   expense     94  Eat Dain-Dain with high school classmates         Fri Feb 16 17:34:21 2024
 2024/02/19    income   4000  Lunch money for 112-2 semester from Mom           Mon Feb 19 15:16:54 2024
+2024/02/20   expense     65  Lunch Expense                                     Tue Feb 20 22:25:39 2024
