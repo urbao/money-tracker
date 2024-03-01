@@ -237,3 +237,4 @@
 2024/02/27   expense     70  Lunch Expense                                     Tue Feb 27 21:43:14 2024
 2024/02/27   expense     75  Dinner Expense                                    Tue Feb 27 21:43:33 2024
 2024/03/01   expense     65  Lunch Expense                                     Fri Mar 01 17:33:57 2024
+2024/03/01   expense    240  Eating steak with sister                          Fri Mar 01 19:39:20 2024
