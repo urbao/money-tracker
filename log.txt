@@ -249,3 +249,4 @@
 2024/03/12   expense     75  Dinner Expense                                    Tue Mar 12 21:41:00 2024
 2024/03/14   expense     85  Lunch Expense                                     Thu Mar 14 11:50:25 2024
 2024/03/15   expense     65  Lunch Expense                                     Fri Mar 15 17:52:09 2024
+2024/03/15    income  12000  Lab salary of January and February                Fri Mar 15 17:54:22 2024
