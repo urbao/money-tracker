@@ -255,3 +255,4 @@
 2024/03/19   expense     75  Dinner Expense                                    Tue Mar 19 22:51:01 2024
 2024/03/22   expense     65  Lunch Expense                                     Fri Mar 22 17:41:53 2024
 2024/03/22    income   4100  Tutor fee of Feb.                                 Fri Mar 22 17:58:15 2024
+2024/03/25   expense     80  Lunch Expense                                     Mon Mar 25 17:59:44 2024
