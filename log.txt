@@ -277,3 +277,4 @@
 2024/04/29   expense     80  Lunch Expense                                     Mon Apr 29 18:36:05 2024
 2024/04/30   expense     80  Lunch Expense                                     Tue Apr 30 21:31:05 2024
 2024/04/30   expense     75  Dinner Expense                                    Tue Apr 30 21:31:30 2024
+2024/05/03   expense    120  Lunch Expense                                     Fri May 03 17:57:12 2024
