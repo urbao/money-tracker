@@ -301,3 +301,4 @@
 2024/06/11   expense     80  Lunch Expense                                     Tue Jun 11 23:07:33 2024
 2024/06/11   expense    110  Dinner Expense                                    Tue Jun 11 23:07:56 2024
 2024/06/14   expense    100  Lunch Expense                                     Fri Jun 14 15:14:07 2024
+2024/06/16    income  40800  Tutor fee of March, April and May                 Sun Jun 16 11:30:26 2024
