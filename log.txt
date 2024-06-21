@@ -304,3 +304,4 @@
 2024/06/16    income  40800  Tutor fee of March, April and May                 Sun Jun 16 11:30:26 2024
 2024/06/18   expense     80  Lunch Expense                                     Tue Jun 18 20:29:13 2024
 2024/06/21   expense    110  Lunch Expense                                     Fri Jun 21 15:11:49 2024
+2024/06/21   expense   2431  Japanese cuisine expense                          Fri Jun 21 21:27:45 2024
