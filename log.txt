@@ -319,3 +319,4 @@
 2024/07/05   expense    115  Lunch Expense                                     Fri Jul 05 21:24:10 2024
 2024/07/05    income  13000  Lab salary of Mar, Apr, May, June                 Fri Jul 05 21:24:57 2024
 2024/07/06   expense   1128  Buying Outdoor Products jacket                    Sat Jul 06 18:07:35 2024
+2024/07/08   expense     75  Lunch Expense                                     Mon Jul 08 18:53:32 2024
