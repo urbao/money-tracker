@@ -331,3 +331,4 @@
 2024/07/17   expense    110  Lunch Expense                                     Wed Jul 17 22:20:11 2024
 2024/07/19   expense     77  Lunch Expense                                     Fri Jul 19 21:00:26 2024
 2024/07/23   expense    155  Eating with Pan at YES!cafe                       Tue Jul 23 18:40:00 2024
+2024/07/27   expense    300  Pizza                                             Sat Jul 27 15:28:14 2024
