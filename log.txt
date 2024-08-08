@@ -343,3 +343,4 @@
 2024/08/06   expense    220  Buy 2 T-shirts                                    Tue Aug 06 23:07:40 2024
 2024/08/07   expense    110  Lunch Expense                                     Wed Aug 07 20:58:37 2024
 2024/08/07   expense    390  Buying new watch                                  Wed Aug 07 20:59:12 2024
+2024/08/08   expense    110  Lunch Expense                                     Thu Aug 08 19:25:53 2024
