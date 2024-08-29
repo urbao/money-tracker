@@ -357,3 +357,4 @@
 2024/08/28   expense    105  Lunch Expense                                     Wed Aug 28 19:55:26 2024
 2024/08/28   expense    300  Passport photo expense                            Wed Aug 28 19:56:56 2024
 2024/08/29   expense   1300  Passport Fee                                      Wed Aug 28 19:59:51 2024
+2024/08/29   expense     96  Lunch Expense                                     Thu Aug 29 20:29:18 2024
