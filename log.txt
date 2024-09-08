@@ -363,3 +363,4 @@
 2024/09/04   expense     95  Lunch Expense                                     Wed Sep 04 18:45:24 2024
 2024/09/05   expense     85  Lunch Expense                                     Thu Sep 05 19:09:48 2024
 2024/09/05   expense    205  Eating dinner with Pan                            Thu Sep 05 22:48:37 2024
+2024/09/08   expense    250  Buy 1 sports short                                Sun Sep 08 17:00:16 2024
