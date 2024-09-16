@@ -370,3 +370,4 @@
 2024/09/12   expense     90  Lunch Expense                                     Thu Sep 12 18:26:18 2024
 2024/09/13   expense     70  Lunch Expense                                     Fri Sep 13 19:41:23 2024
 2024/09/14   expense    450  Registration fee for Zengwen Reservoir's Marathon Sat Sep 14 21:52:08 2024
+2024/09/16   expense     90  Lunch Expense                                     Mon Sep 16 23:22:19 2024
