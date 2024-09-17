@@ -372,3 +372,4 @@
 2024/09/14   expense    450  Registration fee for Zengwen Reservoir's Marathon Sat Sep 14 21:52:08 2024
 2024/09/16   expense     90  Lunch Expense                                     Mon Sep 16 23:22:19 2024
 2024/09/16   expense    100  Dinner Expense                                    Mon Sep 16 23:22:38 2024
+2024/09/17   expense    580  BBQ with IDBA labmates                            Tue Sep 17 17:34:40 2024
