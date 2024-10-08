@@ -388,3 +388,4 @@
 2024/10/05    income  10000  Money from grandpa for Japan conference trip      Sat Oct 05 10:27:28 2024
 2024/10/07   expense    100  Lunch Expense                                     Mon Oct 07 20:40:30 2024
 2024/10/08   expense     45  Lunch Expense                                     Tue Oct 08 20:29:48 2024
+2024/10/08   expense    100  Dinner Expense                                    Tue Oct 08 20:30:20 2024
